@@ -1,0 +1,1 @@
+export const API_URL = "http://shop-myeverydeal.herokuapp.com/api/products"
